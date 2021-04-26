@@ -9,9 +9,9 @@ Simply dowload, extract the 7z file and run the exe in it.
 Choose the appropriate mode and enter expression like this:
 
 ### 2D Vector field
-(a,b) a,b: expressions with x and y
+_(a,b)_ , where a,b are expressions with x and y
 
 ### 3D Vector field
-(a,b,c) a,b,c: expressions with x,y,z
+_(a,b,c)_, where a,b,c are expressions with x,y,z
 
 ***Warning!*** only x,y,z variables are accepted!
